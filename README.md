@@ -1,1 +1,1 @@
-Exploring the GBDK with Visual Studio
+Exploring GBDK with Visual Studio
